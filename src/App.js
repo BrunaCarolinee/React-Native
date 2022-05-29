@@ -49,7 +49,7 @@ const App = () => {
 
         <Text
          accessibilityLabel='Descrição'  
-         style={[style.defaultText, style.description]}>Alanna é uma menininha linda maravilhosa baguceira da mamãe. Eu amo muito ela, ela é o meu amor ela é a minha vida.
+         style={[style.defaultText, style.description]}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer interdum iaculis nisl, eu  Quisque suscipit eget enim quis pharetra. Mauris efficitur tincidunt dignissim. Quisque rutrum dui feugiat fermentum luctus..
          </Text>
         
         <Pressable onPress={handlePressGoToGitHub}>
