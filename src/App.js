@@ -14,7 +14,7 @@ import {
 const colorGitHub = '#010409';
 const colorFont = '#c9d1d9';
 const colorDark = '#4f565e'
-const imageProfile = 'https://img.freepik.com/fotos-gratis/foto-da-cintura-para-cima-de-uma-mulher-tenra-feminina-e-gentil-com-penteado-encaracolado-penteado-para-o-lado-direito-inclinando-a-cabeca-e-sorrindo-sedutor-tornando-o-olhar-romantico-para-a-camera-se-abracando-sobre-o-fundo-amarelo_1258-81987.jpg?w=2000'
+const imageProfile = 'https://i1.wp.com/www.aquinoticias.com/wp-content/uploads/2020/09/Materia-04.jpg?fit=600%2C400&ssl=1'
 
 const urlGitHub = 'https://github.com/BrunaCarolinee'
 
@@ -39,12 +39,12 @@ const App = () => {
         />
         <Text 
         accessibilityLabel='Alanna Sila' 
-        style={[style.defaultText, style.name]}>Alanna Silva
+        style={[style.defaultText, style.name]}>Gato Feliz
         </Text>
 
         <Text 
         accessibilityLabel='Nickname Alanninha'  
-        style={[style.defaultText, style.nickName]}>Alanninha
+        style={[style.defaultText, style.nickName]}>Gatinho
         </Text>
 
         <Text
